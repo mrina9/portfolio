@@ -11,14 +11,14 @@ Hi, I am Mrinalini Karmakar, an aspiring Data Analyst. I enjoy turning data into
 **Key results:** Identified trends and anomalies for a pizza outlet, drawing valuable insights like order distribution by hour, and identifying happy hours to run "Buy One Get One Free" promotions which have a potential to increase sales by 15% to 20%.  
 **GitHub Repo:** [Link](https://github.com/mrina9/Pizza_sales_sql)
 
-## Financial-portfolio-2023
+## Financial portfoli0 2023
 **Objective:** Exploratory data analysis using Python  
 **Tools:** Python (libraries used - numpy, pandas, and matplotlib)  
 **Key results:** Identified trends, patterns and anomalies in financial datasets  
 **GitHub Repo:** [Link](https://github.com/mrina9/Financial-portfolio-2023_python)
 
 
-## Final_year_project_2021
+## IoT-based Smart Water Monitoring System
 **Objective:** Design an IoT-based Smart Water Monitoring System to detect water level, flow and temperature  
 **Tools:**  
   **Hardware:** Arduino UNO, ESP8266 Wi-Fi module, pH, flow, temperature sensors  
