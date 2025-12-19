@@ -11,7 +11,7 @@ Hi, I am Mrinalini Karmakar, an aspiring Data Analyst. I enjoy turning data into
 **Key results:** Identified trends and anomalies for a pizza outlet, drawing valuable insights like order distribution by hour, and identifying happy hours to run "Buy One Get One Free" promotions which have a potential to increase sales by 15% to 20%.  
 **GitHub Repo:** [Link](https://github.com/mrina9/Pizza_sales_sql)
 
-## Financial portfoli0 2023
+## Financial portfolio Analysis
 **Objective:** Exploratory data analysis using Python  
 **Tools:** Python (libraries used - numpy, pandas, and matplotlib)  
 **Key results:** Identified trends, patterns and anomalies in financial datasets  
