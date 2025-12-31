@@ -9,7 +9,7 @@ Hi, I am Mrinalini Karmakar, an aspiring Data Analyst. I enjoy turning data into
 **Objective:** To build my data analysis skills in a real-world context  
 **Tools:** Tableau,Excel  
 **Key results:** * Created a data dashboard using Tableau and used Excel to classify data and draw business conclusions.  
-**GitHub Repo:** [Link](
+**GitHub Repo:** [Link](https://github.com/mrina9/Deloitte-Australia-Data-Analytics-Job-Simulation-on-Forage)
 
 
 ### Sales Analysis for a Pizza outlet  
