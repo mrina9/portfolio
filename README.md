@@ -3,20 +3,19 @@
 ## About me  
 Hi, I am Mrinalini Karmakar, an aspiring Data Analyst. I enjoy turning data into actionable insights.
 
-## Projects
+## Projects  
 
 ### Deloitte Australia Data Analytics Job Simulation on Forage  
 **Objective:** To build my data analysis skills in a real-world context  
 **Tools:** Tableau,Excel  
 **Key results:** * Created a data dashboard using Tableau and used Excel to classify data and draw business conclusions.  
-**GitHub Repo:** [Link](https://github.com/mrina9/Deloitte-Australia-Data-Analytics-Job-Simulation-on-Forage)
-
+**GitHub Repo:** [Link](https://github.com/mrina9/Deloitte-Australia-Data-Analytics-Job-Simulation-on-Forage)  
 
 ### Sales Analysis for a Pizza outlet  
 **Objective:** Analyze sales data to identify revenue trends  
 **Tools:** PostgreSQL  
 **Key results:** Identified trends and anomalies for a pizza outlet, drawing valuable insights like order distribution by hour, and identifying happy hours to run "Buy One Get One Free" promotions which have a potential to increase sales by 15% to 20%.  
-**GitHub Repo:** [Link](https://github.com/mrina9/Pizza_sales_sql)
+**GitHub Repo:** [Link](https://github.com/mrina9/Pizza_sales_sql)  
 
 ## Financial portfolio Analysis
 **Objective:** Exploratory data analysis using Python  
