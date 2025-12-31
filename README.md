@@ -1,9 +1,16 @@
 # My Data Analytics Portfolio  
 
 ## About me  
-Hi, I am Mrinalini Karmakar, an aspiring Data Analyst. I enjoy turning data into actionable insights.  
+Hi, I am Mrinalini Karmakar, an aspiring Data Analyst. I enjoy turning data into actionable insights.
 
 ## Projects
+
+### Deloitte Australia Data Analytics Job Simulation on Forage  
+**Objective:** To build my data analysis skills in a real-world context  
+**Tools:** Tableau,Excel  
+**Key results:** * Created a data dashboard using Tableau and used Excel to classify data and draw business conclusions.  
+**GitHub Repo:** [Link](
+
 
 ### Sales Analysis for a Pizza outlet  
 **Objective:** Analyze sales data to identify revenue trends  
